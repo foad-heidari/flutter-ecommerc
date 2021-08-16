@@ -7,6 +7,6 @@ this app have 2 pages
 
 
 ### products list
-![products list](https://github.com/foad-heidari/fluuter/blob/main/01_E-commerc/01_products_list.png)
+![products list](https://github.com/foad-heidari/flutter-ecommerc/blob/main/01_products_list.png)
 ### products details
-![products list](https://github.com/foad-heidari/fluuter/blob/main/01_E-commerc/01_products_details.png)
+![products list](https://github.com/foad-heidari/flutter-ecommerc/blob/main/01_products_details.png)
